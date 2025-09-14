@@ -71,5 +71,3 @@ This study aimed to:
 
 This research was conducted under the supervision of Dr. Maruf Ahmed at the Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET). Special thanks to Ms. Ruimin Feng (Shanghai Jiao Tong University) for technical guidance on processing methodologies.
 
-
-*This repository represents ongoing research in medical image processing. Results and methodologies are presented for academic discussion and should not be used for clinical decision-making without proper validation.*
